@@ -1,0 +1,21 @@
+This app operater as a bot on behalf of a user, it takes care of the following:
+1. Retweets
+2. Liking tweets
+3. Tweets based on list of topics from pre defined sources
+
+Current list of topics:
+1. Golang
+2. Python
+3. Apple
+4. Deep learning
+5. Machine learning
+6. corona
+
+
+Current list of sources:
+1. hacker news
+2. Times of india
+
+
+Third party package:
+1. go-twitter
